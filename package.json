@@ -5,6 +5,6 @@
     "scripts" : {
         "build" : "cp src/* dist/"
     },
-    "author" : "Stuart McNicholas <stuartmcnicholas@googlemail.com>"
+    "author" : "Stuart McNicholas <stuartmcnicholas@googlemail.com>",
     "licence" : "ICL"
 }
